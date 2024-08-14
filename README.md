@@ -1,3 +1,3 @@
-#Site
+#[Site]
 
 personal website created with NextJS
