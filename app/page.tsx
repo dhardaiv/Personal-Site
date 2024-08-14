@@ -28,7 +28,7 @@ export default function Home() {
             <p>i am a {age} year old software engineer from Toronto, 🇨🇦 interested in all things programming.</p>
             <p>currently, i am tinkering with unsupervised and reinforcement learning algorithms, expanding on my frontend development skills and getting ready for my <a href="https://chem-eng.utoronto.ca/"><span className="text-blue-300">2F term in ce @ uoft</span></a>.</p>         
             <p>feel free to shoot me an email at <a href="mailto:vikdai217@gmail.com"><span className="text-blue-300">daivikdhar10@gmail.com</span></a>.</p>
-            <p>checkout my links below:</p>
+            
           </div>
         </motion.div>
         <motion.div
