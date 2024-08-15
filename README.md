@@ -1,3 +1,3 @@
 ## Site 
 
-personal website created with NextJS
+personal website created with NextJS (https://daivikdhar.vercel.app/)
