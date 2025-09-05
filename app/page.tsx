@@ -25,9 +25,9 @@ export default function Home() {
             <p className="text-4xl mb-4 font-medium">
               hey, i am <span className="text-blue-300">daivik.</span> 
             </p>
-            <p>i am a {age} year old software engineer from Toronto, 🇨🇦 interested in all things programming.</p>
-            <p>currently, i am tinkering with unsupervised and reinforcement learning algorithms, expanding on my frontend development skills and getting ready for my <a href="https://chem-eng.utoronto.ca/"><span className="text-blue-300">3F term in ce @ uoft</span></a>.</p>         
-            <p>feel free to shoot me an email at <a href="mailto:daivikdhar10@gmail.com"><span className="text-blue-300">daivikdhar10@gmail.com</span></a>.</p>
+            <p>I am a {age} year old software engineer interested in all things machine learning.</p>
+            <p>I am currently researching applied reinforcement learning algorithms, while also deepening my expertise in large language models and preparing for my <a href="https://chem-eng.utoronto.ca/"><span className="text-blue-300">3F term in ce @ uoft</span></a>.</p>         
+            <p>Feel free to shoot me an email <a href="mailto:daivik.dhar@mail.utoronto.ca"><span className="text-blue-300">here</span></a>.</p>
             
           </div>
         </motion.div>
@@ -37,7 +37,7 @@ export default function Home() {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.75, delay: 0.75 }}
         >
-          <Link href="https://www.linkedin.com/in/daivik-dhar-919483222/?originalSubdomain=ca"><FaLinkedin size={20}/></Link>
+          <Link href="https://www.linkedin.com/in/daivik-dhar/"><FaLinkedin size={20}/></Link>
           <Link href="https://github.com/dhardaiv"><FaGithub size={20}/></Link>
         </motion.div>
       </div>
